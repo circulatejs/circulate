@@ -9,3 +9,7 @@ plugins/*
 
 # Make sute to keep the base plugins directory
 !plugins/.gitkeep 
+
+# Exclude Admin directories
+src
+admin
